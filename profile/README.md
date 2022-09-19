@@ -1,6 +1,6 @@
 ## Welcome to DLR-AMR
 
-This github organization collect code projects related to adaptive mesh refinement.
+This github organization collects code projects related to adaptive mesh refinement.
 It is managed by the DLR group "scalable adaptive mesh refinement" of the Institute for Software Technology.
 
 # Highlighted projects
@@ -9,7 +9,7 @@ It is managed by the DLR group "scalable adaptive mesh refinement" of the Instit
 
 [t8data](https://github.com/DLR-AMR/t8code) - Addititional data for the t8code project. Input meshes, benchmark runs, etc.
 
-[png2mesh](https://github.com/DLR-AMR/png2mesh) - Produce adative meshes from PNG pictures. We mainly use this library to create pictures of adaptive meshes.
+[png2mesh](https://github.com/DLR-AMR/png2mesh) - Produce adaptive meshes from PNG pictures. We mainly use this library to create pictures of adaptive meshes.
 
 <!--
 
