@@ -1,7 +1,7 @@
 ## Welcome to DLR-AMR
 
 This github organization collects code projects related to adaptive mesh refinement.
-It is managed by the DLR group "scalable adaptive mesh refinement" of the Institute for Software Technology.
+It is managed by the DLR group "scalable adaptive mesh refinement" of the Institute of Software Technology.
 
 # Highlighted projects
 
